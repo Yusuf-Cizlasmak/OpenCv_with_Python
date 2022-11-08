@@ -52,3 +52,7 @@ Bunlar:
   
   Top Hat,morfolojik işlem, orijinal (gri tonlamalı/tek kanallı) giriş görüntüsü ile opening görüntüsü arasındaki farktır,koyu arka planlar üzerinde bir görüntünün parlak bölgelerini ortaya çıkarmak için kullanılır.
    ![7](https://user-images.githubusercontent.com/97342455/200419250-611ee7b1-cd1f-4c89-b851-2359076a16d7.png)
+   
+   
+   
+  https://medium.com/@ycizlasmak/opencv-ile-morfolojik-i̇şlemler-48cb0cceda94

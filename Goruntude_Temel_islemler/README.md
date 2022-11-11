@@ -54,5 +54,12 @@ Bunlar:
    ![7](https://user-images.githubusercontent.com/97342455/200419250-611ee7b1-cd1f-4c89-b851-2359076a16d7.png)
    
    
+   Medium yazılarım:
    
+   Morfolojik İşlemler
+   ----------------------
   https://medium.com/@ycizlasmak/opencv-ile-morfolojik-i̇şlemler-48cb0cceda94
+  
+  Blurlama İşlemleri
+   ----------------------
+   https://medium.com/@ycizlasmak/opencv-ile-blur-i̇şlemleri-ad0832b5a3ea
